@@ -1,5 +1,4 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+
 <h2>Khang</h2>
 <main>
 
