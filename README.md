@@ -25,7 +25,6 @@
     <label for="lazy"><input id="lazy" type="checkbox" name="personality"> Lazy</label>
     <label for="energetic"><input id="energetic" type="checkbox" name="personality"> Energetic</label><br>
     <p>Khang đẹp trai không?</p>
-    <input type="text" placeholder="có hoặc không" required>
-    <button type="submit">Submit</button>
+  
   </form>
 </main>
